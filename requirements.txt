@@ -1,0 +1,10 @@
+pandas
+numpy
+prophet
+langchain
+langchain-community
+langchain-core
+langchain-experimental
+ollama
+tqdm
+shap
